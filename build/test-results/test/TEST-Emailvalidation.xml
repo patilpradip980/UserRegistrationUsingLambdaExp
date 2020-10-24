@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Emailvalidation" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-10-24T04:56:29" hostname="LAPTOP-KC9S1JOD" time="0.009">
+  <properties/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[0]" classname="Emailvalidation" time="0.003"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[1]" classname="Emailvalidation" time="0.001"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[2]" classname="Emailvalidation" time="0.0"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[3]" classname="Emailvalidation" time="0.0"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[4]" classname="Emailvalidation" time="0.0"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[5]" classname="Emailvalidation" time="0.0"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[6]" classname="Emailvalidation" time="0.0"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[7]" classname="Emailvalidation" time="0.0"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[8]" classname="Emailvalidation" time="0.001"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[9]" classname="Emailvalidation" time="0.0"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[10]" classname="Emailvalidation" time="0.0"/>
+  <testcase name="givenEmail_whenValidShouldReturn_asPerResult[11]" classname="Emailvalidation" time="0.001"/>
+  <system-out><![CDATA[valid 
+valid 
+valid 
+valid 
+valid 
+valid 
+valid 
+valid 
+valid 
+ Enter valid email id
+ Enter valid email id
+ Enter valid email id
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
